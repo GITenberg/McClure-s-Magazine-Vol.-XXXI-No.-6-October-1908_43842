@@ -1,0 +1,26 @@
+_repo: McClure-s-Magazine-Vol.-XXXI-No.-6-October-1908_43842
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43842-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2013-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- Periodicals'
+- !lcsh 'Literature -- Periodicals'
+- !lcc 'AP'
+title: McClure's Magazine, Vol. XXXI, No. 6, October, 1908
+url: http://www.gutenberg.org/ebooks/43842
